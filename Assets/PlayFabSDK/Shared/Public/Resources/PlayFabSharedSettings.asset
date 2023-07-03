@@ -15,7 +15,7 @@ MonoBehaviour:
   TitleId: 2B4EC
   DeveloperSecretKey: SSG8UQCCFRONTRK5FYOQEYIE4KEBMRDW79FZHWQKTUH5BNKAX9
   ProductionEnvironmentUrl: 
-  RequestType: 0
+  RequestType: 2
   DisableDeviceInfo: 0
   DisableFocusTimeCollection: 0
   RequestTimeout: 2000
